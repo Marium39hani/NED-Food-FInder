@@ -1,1 +1,1 @@
-# NED-Food-FInder
+# NED-Food-Finder
